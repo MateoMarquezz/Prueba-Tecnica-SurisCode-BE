@@ -1,0 +1,38 @@
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\appsettings.json
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\Prueba Tecnica SurisCode - API.exe
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\Prueba Tecnica SurisCode - API.deps.json
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\Prueba Tecnica SurisCode - API.runtimeconfig.json
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\Prueba Tecnica SurisCode - API.dll
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\Prueba Tecnica SurisCode - API.pdb
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\Prueba Tecnica SurisCode - API.csproj.AssemblyReference.cache
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\Prueba Tecnica SurisCode - API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\Prueba Tecnica SurisCode - API.AssemblyInfoInputs.cache
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\Prueba Tecnica SurisCode - API.AssemblyInfo.cs
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\Prueba Tecnica SurisCode - API.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\Prueba Tecnica SurisCode - API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\Prueba Tecnica SurisCode - API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\staticwebassets\msbuild.Prueba Tecnica SurisCode - API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\staticwebassets\msbuild.build.Prueba Tecnica SurisCode - API.props
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Prueba Tecnica SurisCode - API.props
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Prueba Tecnica SurisCode - API.props
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\scopedcss\bundle\Prueba Tecnica SurisCode - API.styles.css
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\Prueba T.8ED54D5D.Up2Date
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\Prueba Tecnica SurisCode - API.dll
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\refint\Prueba Tecnica SurisCode - API.dll
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\Prueba Tecnica SurisCode - API.pdb
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\Prueba Tecnica SurisCode - API.genruntimeconfig.cache
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\obj\Debug\net8.0\ref\Prueba Tecnica SurisCode - API.dll
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\articulos.json
+C:\Users\mateo\Desktop\Prueba Tecnica Suris\Prueba Tecnica SurisCode - API\bin\Debug\net8.0\vendedores.json
